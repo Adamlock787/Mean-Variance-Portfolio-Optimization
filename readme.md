@@ -39,8 +39,7 @@ NVDA : 2.50e-01
 PFE : 6.10e-16
 XOM : 0.00e+00
 
-
-## Optimized Portfolio Results
+## Optimimal Case
 Returns : 0.38
 Volatility: 0.22
 Sharpe: 1.5
